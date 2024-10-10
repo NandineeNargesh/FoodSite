@@ -1,2 +1,2 @@
 # FoodSite
-its a simple foodsite website 
+this is a simple foodsite website built by nandinee nargesh and develpment with html5 and css.
