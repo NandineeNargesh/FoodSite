@@ -1,0 +1,96 @@
+*{
+    overflow:auto;
+}
+
+#home{
+height:411px;
+padding: 2px 25px;
+}
+#home::before{
+    height: 745px;
+}
+#home p{
+    font-size: 12px;
+}
+
+#navbar{
+    flex-direction: column;
+    
+    
+}
+#navbar ul li a{
+    font-size: 10px;
+    padding-bottom: 15px;
+    padding: 3px 6px;
+
+}
+#navbar ul li a:hover{
+   
+    transform: scale(1);
+  
+
+
+}
+
+#services{
+flex-direction: column;
+}
+#services .box img{
+    height: 100%;
+    width: 90%;
+    
+    
+}
+#services2{
+    flex-direction: column;
+}
+#services2 .box img{
+    height:100%;
+    width: 90%;
+    
+}
+#services3{
+    flex-direction: column;
+}
+#services3 .box img{
+    height:100%;
+    width: 90%;
+    
+    
+}
+#services4{
+    flex-direction: column;
+}
+#services4 .box img{
+    height:50%;
+    width: 90%;
+    
+    
+}
+h1{
+    font-size: 10px;
+}
+#home h1{
+    font-size: 26px;
+}
+.menu-container{
+    height: auto;
+}
+.h-primary-center{
+    font-size: 2rem;
+    padding: 5px;
+}
+.h-secondary{
+    font-size: 1.3rem;
+
+}
+#reservation-box form{
+    width: 60%;
+    
+}
+#reservation-box input{
+    width: 90%;
+    padding: 0.3rem;
+    border-radius: 8px;
+    font-size: 1rem;
+    }
